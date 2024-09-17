@@ -1,0 +1,6 @@
+torch
+diffusers==0.19.3
+Pillow
+transformers
+accelerate
+gradio==3.40.1
